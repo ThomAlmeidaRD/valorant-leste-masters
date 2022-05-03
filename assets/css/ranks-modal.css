@@ -1,0 +1,77 @@
+.ranks {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background: #333333b8;
+    z-index: 1;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+
+.ranks-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    width: 35%;
+    height: 350px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+.rank-list ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.rank-list li{
+    display: inline-block;
+    margin: 10px
+}
+
+
+
+.valuation {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background: #333333b8;
+    z-index: 1;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+
+.valuation-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    width: 35%;
+    height: 350px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+.valuation-list ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.valuation-list li{
+    display: inline-block;
+    margin: 10px
+}

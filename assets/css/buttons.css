@@ -1,11 +1,31 @@
 .cta-navbar {
     padding: 5px;
     border-radius: 3px;
-    background-color: #8C52FF;
+    background-color: #a92cff;
     color: #fff;
     border: none;
     font-size: 12pt;
     width: 130px;
     cursor: pointer;
     font-weight: bold;
+}
+
+
+.cta-branding {
+    padding: 13px;
+    border-radius: 3px;
+    background-color: #a92cff;
+    color: #fff;
+    border: none;
+    font-size: 16pt;
+    width: 200px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.cta-branding:hover{
+    background-color: #ffb700;
+        color: #fff;
+    transform: scale(1.1);
 }

@@ -16,10 +16,15 @@
     <div class="container">
         <div class="container-content">
             <?php
-                include('branding.php')
+                include('inc/branding.php');
+                include('inc/ranks.php');
+                include('inc/valuation.php');
             ?>
         </div>
     </div>
 
 </body>
+
+<script src="assets/js/modal.js"></script>
+
 </html>

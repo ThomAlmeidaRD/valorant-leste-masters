@@ -1,10 +1,11 @@
 .navbar {
-    padding: 10px;
+    background-color: #eee;
+    padding: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
-
 .navbar-content {
     text-align: right;
 }
@@ -27,4 +28,12 @@
     font-family: 'OpenSansEX', sans-serif;
     text-decoration: none;
     color: black;
+}
+
+li:hover{
+    color: #a92cff;
+}
+
+a:hover{
+    color: #a92cff;
 }

@@ -1,20 +1,33 @@
 @import url('fonts.css');
 @import url('navbar.css');
 @import url('buttons.css');
-
+@import url('branding.css');
+@import url('ranks-modal.css');
 * {
     margin: 0px;
     padding: 0px;
-    background-color: #F3F0F6;
+    
     font-family: 'OpenSansRG', sans-serif;
 }
 
-.italic-purple{
+.italic-purple {
     font-style: italic;
-    color: #8C52FF;
+    color: #a92cff;
     font-family: 'OpenSansEX', sans-serif;
 }
 
-#float-left{
+#float-left {
     margin-right: 250px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    padding-top: 60px;
+}
+
+img {
+    width: 100px;
 }
