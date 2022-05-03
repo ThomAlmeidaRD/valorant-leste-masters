@@ -1,0 +1,30 @@
+.navbar {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-content {
+    text-align: right;
+}
+
+.navbar-content ul {
+    text-emphasis: right;
+    padding-left: 0;
+    list-style: none;
+}
+
+.navbar-content li {
+    font-family: 'OpenSansEX', sans-serif;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.navbar-content a {
+    font-family: 'OpenSansEX', sans-serif;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,11 @@
+.cta-navbar {
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #8C52FF;
+    color: #fff;
+    border: none;
+    font-size: 12pt;
+    width: 130px;
+    cursor: pointer;
+    font-weight: bold;
+}
