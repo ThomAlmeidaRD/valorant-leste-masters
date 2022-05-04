@@ -29,3 +29,24 @@
         color: #fff;
     transform: scale(1.1);
 }
+
+
+.form-modal-content button{
+    padding: 13px;
+    border-radius: 3px;
+    background-color: #a92cff;
+    color: #fff;
+    border: none;
+    font-size: 16pt;
+    width: 100%;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+#close-form{
+    margin-top: 10px;
+    background-color: #eee;
+    border: 1px solid #a92cff;
+    color: #a92cff;
+}

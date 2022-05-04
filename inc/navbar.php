@@ -6,7 +6,7 @@
             <li id="valuationbtn" onclick="showValuation()">Valores</li>
             <li id="ranksbtn" onclick="showRanks()">Quais Elos ?</li>
             <li >
-                <button class="cta-navbar"> 
+                <button class="cta-navbar" onclick="openForm()"> 
                     Garantir vaga
                 </button>
             </li>

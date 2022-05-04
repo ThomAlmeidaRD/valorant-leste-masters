@@ -19,6 +19,7 @@
                 include('inc/branding.php');
                 include('inc/ranks.php');
                 include('inc/valuation.php');
+                include('inc/form.php')
             ?>
         </div>
     </div>

@@ -4,6 +4,9 @@
 @import url('branding.css');
 @import url('ranks-modal.css');
 @import url('media-queries.css');
+@import url('form-modal.css');
+
+
 * {
     margin: 0px;
     padding: 0px;

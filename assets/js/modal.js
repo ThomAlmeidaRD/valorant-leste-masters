@@ -22,3 +22,17 @@ function showValuation() {
 function closeModalTwo() {
     valuationDiv.style.display = 'none'
 }
+
+
+//
+
+var formModal = document.getElementById('form-modal')
+
+
+function openForm(){
+    formModal.style.display = 'flex'
+}
+
+function closeForm(){
+    formModal.style.display = 'none'
+}

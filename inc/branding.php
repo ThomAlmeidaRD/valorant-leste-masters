@@ -7,7 +7,7 @@
             <p>
                 Garanta sua vaga no valorant leste masters e concorra com seu time na premiação de <b class="italic-purple">R$ 300,00</b>
             </p>
-            <button class="cta-branding">
+            <button class="cta-branding" onclick="openForm()">
                 Garantir vaga
             </button>
 
