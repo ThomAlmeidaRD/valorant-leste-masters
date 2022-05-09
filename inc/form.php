@@ -36,7 +36,7 @@
             <button id="close-form" onclick="closeForm()">Fechar</button>
 
 
-            <input type="hidden" name="_next" id="nextPage" >
+            <input type="hidden" name="_next" id="nextPage" value=<?=$url . 'obrigado.php';?> >
             <input type="text" name="_honey" style="display:none">
             <input type="hidden" name="_captcha" value="false">
 

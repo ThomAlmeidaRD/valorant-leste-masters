@@ -1,0 +1,44 @@
+.thanks {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: absolute;
+    top: 30%;
+    right: 40%;
+}
+
+.thanks h1 {
+    width: auto;
+}
+
+.thanks h2 {
+    width: 450px;
+    margin: 25px 0px;
+}
+
+.thanks-content {
+    width: 100%;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1366px) {
+
+
+    .thanks {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        position: absolute;
+        top: 200px;
+        left: 450px;
+    }
+
+    .thanks h2 {
+        width: 360px;
+        margin: 25px 0px;
+    }
+
+}

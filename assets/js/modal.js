@@ -1,6 +1,6 @@
 
 var nextPage = document.getElementById('nextPage')
-nextPage = window.location.href
+
 
 var ranksDiv = document.getElementById('ranks')
 var ranksBtn = document.getElementById('ranksbtn')
