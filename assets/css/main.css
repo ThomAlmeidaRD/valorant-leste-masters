@@ -6,6 +6,7 @@
 @import url('media-queries.css');
 @import url('form-modal.css');
 @import url('obrigrado.css');
+@import url('hub-banner.css');
 
 * {
     margin: 0px;

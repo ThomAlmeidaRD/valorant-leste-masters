@@ -2,6 +2,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    bottom: 50%;
+    width: 100%;
 }
 
 .branding-content {
