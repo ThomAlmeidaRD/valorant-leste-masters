@@ -21,11 +21,15 @@
     <div class="container">
         <div class="container-content">
             <?
-            include('inc/hub-banner.php')
+            include('inc/hub-banner.php');
+            include('inc/table.php')
             ?>
         </div>
     </div>
 
 </body>
 
+<?
+    include('inc/footer.php')
+?>
 </html>
